@@ -1,6 +1,6 @@
 # GoogleBooks
 
-A react based Google book search app for book lovers. YOu can search for your favorite books, view them on the google books store, and save them to your library.
+A react based Google book search app for book lovers. You can search for your favorite books, view them on the google books store, and save them to your library.
 
 ## Demo
 
