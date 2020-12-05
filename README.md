@@ -22,7 +22,7 @@ npm start
 - JavaScript
 - MongoDB
 - Express
-- Node
+- Node.js
 - Google Books API
 - Bootstrap
 
